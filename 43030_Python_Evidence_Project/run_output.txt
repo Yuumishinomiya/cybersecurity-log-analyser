@@ -1,0 +1,8 @@
+FAILED LOGIN ATTEMPTS BY IP
+  192.0.2.10: 3
+  203.0.113.5: 1
+
+REQUIRES REVIEW (3+ failed attempts)
+  192.0.2.10: 3 failed attempts
+
+Note: Flagged activity is not proof of an attack.

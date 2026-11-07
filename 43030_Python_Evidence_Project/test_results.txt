@@ -1,0 +1,9 @@
+test_higher_threshold_no_flags (test_log_analyser.TestLogAnalyser.test_higher_threshold_no_flags) ... ok
+test_invalid_threshold (test_log_analyser.TestLogAnalyser.test_invalid_threshold) ... ok
+test_missing_columns (test_log_analyser.TestLogAnalyser.test_missing_columns) ... ok
+test_three_failures_flagged (test_log_analyser.TestLogAnalyser.test_three_failures_flagged) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.005s
+
+OK
